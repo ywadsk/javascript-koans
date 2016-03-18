@@ -39,5 +39,8 @@ describe('About Expects', function() {
     expect(1 + 1).toEqual(2);
   });
 });
+
 //state one
 //state two
+//stage 1
+//stage 2
