@@ -4,6 +4,7 @@ describe('About Expects', function() {
   it('should expect true', function() {
 
     // Your journey begins here: Replace the word false with true 
+    expect(true).toBeTruthy();
     expect(false).toBeTruthy();
   });
 
